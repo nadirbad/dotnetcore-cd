@@ -1,0 +1,16 @@
+c:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.csproj.CoreCompileInputs.cache
+c:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.AssemblyInfoInputs.cache
+c:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.AssemblyInfo.cs
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.deps.json
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.runtimeconfig.json
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.runtimeconfig.dev.json
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.pdb
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\bin\Debug\netcoreapp2.0\DotNetCoreSampleApi.pdb
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.dll
+C:\Projects\Learning\.NET Core\CD using CircleCI and Heroku\DotNetCoreSampleApi\DotNetCoreSampleApi.Tests\obj\Debug\netcoreapp2.0\DotNetCoreSampleApi.Tests.pdb
